@@ -99,8 +99,8 @@ main {
 }
   
 .btn1:hover {
-  background-color: #ffffff;
-  color: radial-gradient(circle at bottom left, #FDBA51, #F22B41, #A33E9A, #53589F);
+  background-color: #000;
+  color: #000;
 }
 
 .btn1:hover:after {
