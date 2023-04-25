@@ -98,6 +98,10 @@ main {
   text-align: center;
 }
   
+.btn1 i {
+  margin-right: 5px;
+}
+
 .btn1:hover {
   background-color: #000;
   color: #000;
@@ -117,6 +121,10 @@ main {
   text-decoration: none;
   font-family: 'Josefin Sans';
   text-align: center;
+}
+
+.btn2 i {
+  margin-right: 5px;
 }
   
 .btn2:hover {
@@ -139,6 +147,10 @@ main {
   font-family: 'Josefin Sans';
   text-align: center;
 }
+
+.btn3 i {
+  margin-right: 5px;
+}
   
 .btn3:hover {
   background-color: #fff;
@@ -159,6 +171,10 @@ main {
   text-decoration: none;
   font-family: 'Josefin Sans';
   text-align: center;
+}
+
+.btn4 i {
+  margin-right: 5px;
 }
   
 .btn4:hover {
@@ -182,6 +198,10 @@ main {
   text-align: center;
 }
   
+  .btn5 i {
+    margin-right: 5px;
+  }
+  
 .btn5:hover {
   background-color: #fff;
   color: #045959;
@@ -201,6 +221,10 @@ main {
   text-decoration: none;
   font-family: 'Josefin Sans';
   text-align: center;
+}
+
+.btn6 i {
+  margin-right: 5px;
 }
   
 .btn6:hover {
