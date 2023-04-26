@@ -148,7 +148,7 @@ main {
   text-decoration: none;
   font-family: 'Josefin Sans';
   text-align: center;
-  transition: background-color 0.25s ease-in-out;
+  transition: background-color 0.35s ease-in-out;
 }
 
 .btn3 i {
@@ -174,7 +174,7 @@ main {
   text-decoration: none;
   font-family: 'Josefin Sans';
   text-align: center;
-  transition: background-color 0.25s ease-in-out; 
+  transition: background-color 0.35s ease-in-out; 
 }
 
 .btn4 i {
@@ -200,7 +200,7 @@ main {
   text-decoration: none;
   font-family: 'Josefin Sans';
   text-align: center;
-  transition: background-color 0.25s ease-in-out;
+  transition: background-color 0.35s ease-in-out;
 }
   
   .btn5 i {
@@ -226,7 +226,7 @@ main {
   text-decoration: none;
   font-family: 'Josefin Sans';
   text-align: center;
-  transition: background-color 0.25s ease-in-out;
+  transition: background-color 0.35s ease-in-out;
 }
 
 .btn6 i {
