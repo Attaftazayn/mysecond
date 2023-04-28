@@ -232,16 +232,16 @@ main {
 .btn6 i {
   margin-right: 5px;
 }
+
+.foto1 {
+  margin-right: 5px
+}
   
 .btn6:hover {
   background-color: #A58444;
   color: #000;
 }
 
-.btn6:hover:after {
-  opacity: 1;
-  transform: scale(1.15);
-}
 
 .footage {
   font-family: 'Josefin Sans';
