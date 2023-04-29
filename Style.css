@@ -156,8 +156,8 @@ main {
 }
   
 .btn3:hover {
-  background-color: #fff;
-  color: #1C9AF0;
+  background-color: #000;
+  color: #15c2b9;
 }
 
 .btn3:hover:after {
