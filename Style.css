@@ -119,7 +119,7 @@ main {
   text-decoration: none;
   font-family: 'Josefin Sans';
   text-align: center;
-  transition: background-color 0.35s ease-in-out;
+  transition: background-color 0.37s ease-in-out;
   transition: all 0.5s ease;
 }
 
