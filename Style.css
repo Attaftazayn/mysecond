@@ -189,7 +189,7 @@ main {
   font-family: 'Josefin Sans';
   text-align: center;
   transition: background-color 0.35s ease-in-out;
-  transition: all 0.
+  transition: all 0.5s ease;
 }
   
   .btn5 i {
@@ -226,6 +226,29 @@ main {
 .btn6:hover {
   background-color: #A58444;
   color: #000;
+  transform: scale(0.93);
+}
+
+.btn7 {
+  background-color: #B28767;
+  padding: 16px 20px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  color: #000;
+  text-decoration: none;
+  font-family: 'Josefin Sans';
+  text-align: center;
+  transition: background-color 0.35s ease-in-out;
+  transition: all 0.
+}
+  
+  .btn7 i {
+    margin-right: 5px;
+  }
+  
+.btn5:hover {
+  background-color: #000;
+  color: #B28767;
   transform: scale(0.93);
 }
 
