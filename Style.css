@@ -239,14 +239,14 @@ main {
   font-family: 'Josefin Sans';
   text-align: center;
   transition: background-color 0.35s ease-in-out;
-  transition: all 0.
+  transition: all 0.5s ease;
 }
   
-  .btn7 i {
+.btn7 i {
     margin-right: 5px;
-  }
+}
   
-.btn5:hover {
+.btn7:hover {
   background-color: #000;
   color: #B28767;
   transform: scale(0.93);
